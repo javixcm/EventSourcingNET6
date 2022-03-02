@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "092912b0-c726-4462-ac39-e9af491618a1": {
+      "ProjectGuid": "092912b0-c726-4462-ac39-e9af491618a1",
+      "DisplayName": "Banking.Cqrs.Core",
+      "ColorIndex": 0
+    },
+    "95e6aa1d-ee97-475c-91de-5833d777c646": {
+      "ProjectGuid": "95e6aa1d-ee97-475c-91de-5833d777c646",
+      "DisplayName": "Banking.Account.Command.Domain",
+      "ColorIndex": 1
+    },
+    "77d20d01-bf4f-424b-b6ea-4be226c02275": {
+      "ProjectGuid": "77d20d01-bf4f-424b-b6ea-4be226c02275",
+      "DisplayName": "Banking.Account.Command.Application",
+      "ColorIndex": 2
+    },
+    "1416b1a6-a1b2-47b2-9f64-91fa909f68ee": {
+      "ProjectGuid": "1416b1a6-a1b2-47b2-9f64-91fa909f68ee",
+      "DisplayName": "Banking.Account.Command.Infrastructure",
+      "ColorIndex": 3
+    },
+    "4bd1a7ff-9282-4e02-98fc-91ed93f66784": {
+      "ProjectGuid": "4bd1a7ff-9282-4e02-98fc-91ed93f66784",
+      "DisplayName": "Banking.Account.Command.Api",
+      "ColorIndex": 4
+    },
+    "c8fb74fa-a0a1-4ddd-9cd6-84fca5883770": {
+      "ProjectGuid": "c8fb74fa-a0a1-4ddd-9cd6-84fca5883770",
+      "DisplayName": "Banking.Account.Query.Domain",
+      "ColorIndex": 5
+    },
+    "7773da2c-43f9-404d-bf45-7ce4d1062cb9": {
+      "ProjectGuid": "7773da2c-43f9-404d-bf45-7ce4d1062cb9",
+      "DisplayName": "Banking.Account.Query.Application",
+      "ColorIndex": 6
+    },
+    "89723f0f-5dd9-4fd5-a564-5cf1612efd9b": {
+      "ProjectGuid": "89723f0f-5dd9-4fd5-a564-5cf1612efd9b",
+      "DisplayName": "Banking.Account.Query.Infrastructure",
+      "ColorIndex": 7
+    },
+    "79baf442-f9ff-4c1c-a2ad-1c7e9229520b": {
+      "ProjectGuid": "79baf442-f9ff-4c1c-a2ad-1c7e9229520b",
+      "DisplayName": "Banking.Account.Query.Api",
+      "ColorIndex": 8
+    },
+    "e79b0bd4-9bc0-43f5-913f-125eb1f6a123": {
+      "ProjectGuid": "e79b0bd4-9bc0-43f5-913f-125eb1f6a123",
+      "DisplayName": "Banking.Account.Query.Consumer",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 10
+}
